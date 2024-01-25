@@ -1,5 +1,4 @@
-    - 👋 Hi, I’m @hebosho911
-# Programa de Fidelización para Librería [Nombre de la Librería]
+# Programa de Fidelización para Librería [HBushIA]
 
 ¡Bienvenido/a a nuestro programa de fidelización para amantes de los libros! 📚 Aquí encontrarás información sobre las emocionantes ventajas que ofrecemos a nuestros miembros leales.
 
